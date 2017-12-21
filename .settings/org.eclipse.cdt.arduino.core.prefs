@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+libraries=["Elegoo TouchScreen Library","Elegoo GFX Library","Elegoo TFTLCD Library","Ultrasonic","Servo"]
